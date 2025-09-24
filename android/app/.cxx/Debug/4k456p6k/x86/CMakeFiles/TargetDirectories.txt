@@ -1,0 +1,6 @@
+/Users/smrthub/Desktop/Office Workspace/Skill Practice/ReactNative/UniversalApp/android/app/.cxx/Debug/4k456p6k/x86/CMakeFiles/appmodules.dir
+/Users/smrthub/Desktop/Office Workspace/Skill Practice/ReactNative/UniversalApp/android/app/.cxx/Debug/4k456p6k/x86/CMakeFiles/edit_cache.dir
+/Users/smrthub/Desktop/Office Workspace/Skill Practice/ReactNative/UniversalApp/android/app/.cxx/Debug/4k456p6k/x86/CMakeFiles/rebuild_cache.dir
+/Users/smrthub/Desktop/Office Workspace/Skill Practice/ReactNative/UniversalApp/android/app/.cxx/Debug/4k456p6k/x86/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+/Users/smrthub/Desktop/Office Workspace/Skill Practice/ReactNative/UniversalApp/android/app/.cxx/Debug/4k456p6k/x86/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/smrthub/Desktop/Office Workspace/Skill Practice/ReactNative/UniversalApp/android/app/.cxx/Debug/4k456p6k/x86/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir

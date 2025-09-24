@@ -1,0 +1,42 @@
+{
+  "buildFiles": [
+    "/Users/smrthub/Desktop/Office Workspace/Skill Practice/ReactNative/UniversalApp/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+    "/Users/smrthub/Desktop/Office Workspace/Skill Practice/ReactNative/UniversalApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/smrthub/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/smrthub/Desktop/Office Workspace/Skill Practice/ReactNative/UniversalApp/android/app/.cxx/Debug/4k456p6k/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/smrthub/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/smrthub/Desktop/Office Workspace/Skill Practice/ReactNative/UniversalApp/android/app/.cxx/Debug/4k456p6k/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "react_codegen_safeareacontext::@7984cd80db47aa7b952a": {
+      "artifactName": "react_codegen_safeareacontext",
+      "abi": "arm64-v8a",
+      "output": "/Users/smrthub/Desktop/Office Workspace/Skill Practice/ReactNative/UniversalApp/android/app/build/intermediates/cxx/Debug/4k456p6k/obj/arm64-v8a/libreact_codegen_safeareacontext.so",
+      "runtimeFiles": [
+        "/Users/smrthub/.gradle/caches/8.14.3/transforms/48f32c88ab848eeaa4d6425b771aa34b/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so",
+        "/Users/smrthub/.gradle/caches/8.14.3/transforms/5e3de19cdc6bd36e24739a92b8cabbb2/transformed/react-android-0.81.4-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/smrthub/.gradle/caches/8.14.3/transforms/5e3de19cdc6bd36e24739a92b8cabbb2/transformed/react-android-0.81.4-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so"
+      ]
+    },
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "arm64-v8a",
+      "output": "/Users/smrthub/Desktop/Office Workspace/Skill Practice/ReactNative/UniversalApp/android/app/build/intermediates/cxx/Debug/4k456p6k/obj/arm64-v8a/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/smrthub/.gradle/caches/8.14.3/transforms/48f32c88ab848eeaa4d6425b771aa34b/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so",
+        "/Users/smrthub/.gradle/caches/8.14.3/transforms/5e3de19cdc6bd36e24739a92b8cabbb2/transformed/react-android-0.81.4-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/smrthub/.gradle/caches/8.14.3/transforms/5e3de19cdc6bd36e24739a92b8cabbb2/transformed/react-android-0.81.4-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so"
+      ]
+    }
+  }
+}
